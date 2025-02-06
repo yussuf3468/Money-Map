@@ -8,7 +8,12 @@ MoneyMap is a full-stack personal finance tracker that helps users manage their 
 
 MVP (Minimum Viable Product)
 
-✅ User Authentication – Signup/Login (JWT & bcrypt)✅ Dashboard – Track income, expenses, and savings✅ Categories – Tag transactions (Food, Rent, Entertainment, etc.)✅ Charts & Graphs – Visual breakdown of spending✅ Monthly Budgeting – Set and track budgets✅ Data Export – Download transactions as CSV
+✅ User Authentication – Signup/Login (JWT & bcrypt)
+✅ Dashboard – Track income, expenses, and savings
+✅ Categories – Tag transactions (Food, Rent, Entertainment, etc.)
+✅ Charts & Graphs – Visual breakdown of spending
+✅ Monthly Budgeting – Set and track budgets
+✅ Data Export – Download transactions as CSV
 
 Advanced Features (Monetizable 💰)
 
